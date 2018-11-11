@@ -15,4 +15,4 @@ github_username:  prateeksawhney97
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-minima
